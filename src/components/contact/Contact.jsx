@@ -11,14 +11,15 @@ const Contact = () => {
     setMessage(true);
     emailjs
       .sendForm(
-        'service_k2qawqh',
-        'template_c6rkpn6',
+        'service_1phfyev',
+        'template_tj04cxn',
         formRef.current,
-        'X7K7ebhIeOy3YwHki'
+        'HVpgPm9DZqvwBAhVh'
       )
       .then(
         (result) => {
           console.log(result.text);
+          // console.log('Mess Send Successfully');
         },
         (error) => {
           console.log(error.text);
@@ -32,7 +33,7 @@ const Contact = () => {
       <h5>Get In Touch</h5>
       <h5>
         I do receive your messages and will respond asap if the valid email is
-        provided :)
+        provided
       </h5>
       <h2>Contact Me</h2>
       <div className="container contact__container">
