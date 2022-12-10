@@ -47,7 +47,7 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:men: **Bayejid Hawlader**
 
 - [GitHub](https://github.com/Meri-MG)
 - [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
