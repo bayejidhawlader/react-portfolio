@@ -8,7 +8,7 @@ const HeaderSocials = () => {
     <div className="header__socials">
       <a href="https://www.linkedin.com/in/bayejidhawlader/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
       <a href="https://github.com/bayejidhawlader" target="_blank" rel="noreferrer" ><FaGithub /></a>
-      <a href="Portfolio" target="_blank" rel="noreferrer" ><FaAngellist /></a>
+      <a href="https://react-portfolios.netlify.app/" target="_blank" rel="noreferrer" ><FaAngellist /></a>
     </div>
   )
 }
